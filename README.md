@@ -11,12 +11,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### About me
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
+### Sobre mim ###
+Sou Engenheiro de Computação formado pela Universidade Veiga de Almeida, com mais de 15 anos de experiência profissional no desenvolvimento de soluções digitais e na liderança técnica de projetos de transformação digital. 
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+Minha trajetória inclui a criação de sistemas inovadores, migração de arquiteturas para a nuvem e digitalização de processos que aumentaram a eficiência operacional e o valor para os clientes.
+
+Minhas especialidades incluem:
+
+> Desenvolvimento e liderança de soluções em AWS (Lambdas, API Gateway, DynamoDB, S3, entre outros).
+> Criação e integração de sistemas utilizando tecnologias como Node.js, React, CSS, HTML, JavaScript, API's, Heroku, Git e GitHub.
+> Transformação de processos de vendas com ferramentas como WhatsApp e bots inteligentes.
+> Otimização de fluxos internos no setor de varejo, agregando valor à cadeia de distribuição e empacotamento.
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&show_icons=true&theme=bear&count_private=true"/>
