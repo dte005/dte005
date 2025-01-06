@@ -19,6 +19,6 @@ I'm a {backend, frontend and mobile} developer and technical instructor at [@tre
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=dte005&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
