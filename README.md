@@ -1,4 +1,5 @@
-# Olá ! sou Daniel Silva. Líder Técnico e desenvolvedor fullstack
+# Olá ! Sou Daniel Silva.
+## Líder Técnico e desenvolvedor fullstack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.Js" alt="Nodejs" width="40" height="40"/>&nbsp;
