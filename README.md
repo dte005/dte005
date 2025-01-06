@@ -26,6 +26,7 @@ Minha trajetória inclui a criação de sistemas inovadores, migração de arqui
 > Otimização de fluxos internos no setor de varejo, agregando valor à cadeia de distribuição e empacotamento.
 
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&show_icons=true&theme=bear&count_private=true"/>
+  <img height = "200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dte005&theme=dracula&hide_border=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"> 
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=dte005&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
