@@ -19,7 +19,7 @@ Minha trajetória inclui a criação de sistemas inovadores, migração de arqui
 
 > Desenvolvimento e liderança de soluções em AWS (Lambdas, API Gateway, DynamoDB, S3, entre outros).
 > 
-> Criação e integração de sistemas utilizando tecnologias como Node.js, React, CSS, HTML, JavaScript, API's, Heroku, Git e GitHub.
+> Criação e integração de sistemas utilizando tecnologias como Node.js, React, CSS, HTML, JavaScript, Typescript API's, Heroku, Git e GitHub.
 >
 > Transformação de processos de vendas com ferramentas como WhatsApp e bots inteligentes.
 >
