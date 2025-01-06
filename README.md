@@ -29,7 +29,7 @@ Minha trajetória inclui a criação de sistemas inovadores, migração de arqui
   <img height = "200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dte005&theme=dracula&hide_border=true"/>
 </div>
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"> 
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dte005&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&exclude_repo=rails-simple-airbnb,findi,rails-mister-cocktail,gargaleria,fullstack-challenges,rails-task-manager&langs_count=8&hide=css,html"> 
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=dte005&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
