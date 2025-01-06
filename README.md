@@ -1,5 +1,5 @@
 # Olá ! Sou Daniel Silva.
-## Líder Técnico e desenvolvedor fullstack
+<h3>Líder Técnico e desenvolvedor fullstack</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.Js" alt="Nodejs" width="40" height="40"/>&nbsp;
@@ -10,16 +10,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-### Sobre mim ###
+### Sobre mim
 Sou Engenheiro de Computação formado pela Universidade Veiga de Almeida, com mais de 15 anos de experiência profissional no desenvolvimento de soluções digitais e na liderança técnica de projetos de transformação digital. 
 
 Minha trajetória inclui a criação de sistemas inovadores, migração de arquiteturas para a nuvem e digitalização de processos que aumentaram a eficiência operacional e o valor para os clientes.
 
-Minhas especialidades incluem:
+### Minhas especialidades incluem:
 
 > Desenvolvimento e liderança de soluções em AWS (Lambdas, API Gateway, DynamoDB, S3, entre outros).
+> 
 > Criação e integração de sistemas utilizando tecnologias como Node.js, React, CSS, HTML, JavaScript, API's, Heroku, Git e GitHub.
+>
 > Transformação de processos de vendas com ferramentas como WhatsApp e bots inteligentes.
+>
 > Otimização de fluxos internos no setor de varejo, agregando valor à cadeia de distribuição e empacotamento.
 
 <div align = "left">
