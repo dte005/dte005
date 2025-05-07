@@ -1,5 +1,5 @@
 # Olá ! Sou Daniel Silva.
-<h3>Líder Técnico e desenvolvedor fullstack</h3>
+<h3>Líder técnico e desenvolvedor fullstack</h3>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
